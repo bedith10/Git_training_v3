@@ -1,3 +1,4 @@
 this is sample file 1
 my name is Edith Flore
 I am learning Devops and Networking
+this is stash lecture, change in file 1
